@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>cobblestoneGroup</defName>
+  </DesignatorDropdownGroupDef>
   <TerrainDef Abstract="True" ParentName="FloorBase" Name="CobblestoneFloor">
     <renderPrecedence>250</renderPrecedence>
     <description>a cobblestone floor that is built from loose stones on the ground at no cost.</description>
@@ -9,6 +12,7 @@
       <Beauty>1</Beauty>
       <WorkToBuild>500</WorkToBuild>
     </statBases>
+    <designatorDropdown>cobblestoneGroup</designatorDropdown>
   </TerrainDef>
   <TerrainDef ParentName="CobblestoneFloor">
     <defName>CobblestoneSandstone</defName>

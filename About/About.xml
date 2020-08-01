@@ -6,9 +6,19 @@
   <url>https://github.com/emipa606/CobblestoneFloors</url>
   <supportedVersions>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
-  <modDependencies />
-  <loadAfter />
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
   <description>Update of BaconBits mod for RimWorld 1.1
 https://ludeon.com/forums/index.php?topic=25580.msg260005#msg260005
 

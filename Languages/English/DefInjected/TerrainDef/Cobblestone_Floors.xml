@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CobblestoneSandstone.label>sandstone cobblestone</CobblestoneSandstone.label>
+  <CobblestoneSandstone.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneSandstone.description>
+
+  <CobblestoneGranite.label>granite cobblestone</CobblestoneGranite.label>
+  <CobblestoneGranite.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneGranite.description>
+
+  <CobblestoneLimestone.label>limestone cobblestone</CobblestoneLimestone.label>
+  <CobblestoneLimestone.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneLimestone.description>
+
+  <CobblestoneSlate.label>slate cobblestone</CobblestoneSlate.label>
+  <CobblestoneSlate.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneSlate.description>
+
+  <CobblestoneMarble.label>marble cobblestone</CobblestoneMarble.label>
+  <CobblestoneMarble.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneMarble.description>
+
+
+</LanguageData>
