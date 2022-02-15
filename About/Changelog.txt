@@ -1,5 +1,8 @@
 # Changelog for CobblestoneFloors
 
+1.3.1 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=852103845][K]Extra Stone[/url], thanks Svelandria
+
+
 1.0.3.0 - Mod updated for 1.3 and passed autotests
 
 
