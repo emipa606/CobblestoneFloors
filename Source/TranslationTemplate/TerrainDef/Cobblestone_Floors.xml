@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: granite cobblestone -->
+  <CobblestoneGranite.label>granite cobblestone</CobblestoneGranite.label>
+  <!-- EN: a cobblestone floor that is built from loose stones on the ground at no cost. -->
+  <CobblestoneGranite.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneGranite.description>
+  <!-- EN: limestone cobblestone -->
+  <CobblestoneLimestone.label>limestone cobblestone</CobblestoneLimestone.label>
+  <!-- EN: a cobblestone floor that is built from loose stones on the ground at no cost. -->
+  <CobblestoneLimestone.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneLimestone.description>
+  <!-- EN: marble cobblestone -->
+  <CobblestoneMarble.label>marble cobblestone</CobblestoneMarble.label>
+  <!-- EN: a cobblestone floor that is built from loose stones on the ground at no cost. -->
+  <CobblestoneMarble.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneMarble.description>
+  <!-- EN: sandstone cobblestone -->
+  <CobblestoneSandstone.label>sandstone cobblestone</CobblestoneSandstone.label>
+  <!-- EN: a cobblestone floor that is built from loose stones on the ground at no cost. -->
+  <CobblestoneSandstone.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneSandstone.description>
+  <!-- EN: slate cobblestone -->
+  <CobblestoneSlate.label>slate cobblestone</CobblestoneSlate.label>
+  <!-- EN: a cobblestone floor that is built from loose stones on the ground at no cost. -->
+  <CobblestoneSlate.description>a cobblestone floor that is built from loose stones on the ground at no cost.</CobblestoneSlate.description>
+</LanguageData>
